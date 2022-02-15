@@ -7,11 +7,11 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
       - name: Set-up Pandoc
-        uses: ${{ github.workspace }}/.github/workflows/setup-pandoc@v2
+      - uses: r-lib/actions/setup-pandoc@v2
+        with:
+          pandoc-version: '2.14.2' # The pandoc version to download (if necessary) and use.
       - name: Set permissions
-        run: cd ${{ github.workspace }}
-            chmod 740 src/generate.sh
-            chmod 740 src/generate.sh
+        run: cd ${{ github.workspace }} && chmod 740 ./src/generate.sh && chmod 740 ./src/build.sh
       - name: Generate files
         run: ./src/generate.sh
       - name: Build Readme
