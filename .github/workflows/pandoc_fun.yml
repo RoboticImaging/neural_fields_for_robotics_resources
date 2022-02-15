@@ -1,4 +1,4 @@
-name: Pandoc Fund
+name: Pandoc Fun
 on: [push]
 jobs:
   Explore-GitHub-Actions:
@@ -9,7 +9,7 @@ jobs:
       - name: Set-up Pandoc
         uses: ${{ github.workspace }}/.github/workflows/setup-pandoc@v2
       - name: Set permissions
-        run: cd ${{github.workspace}}
+        run: cd ${{ github.workspace }}
             chmod 740 src/generate.sh
             chmod 740 src/generate.sh
       - name: Generate files
