@@ -1,48 +1,31 @@
 
-@article{suhail_light_2021,
-	title = {Light {Field} {Neural} {Rendering}},
-	url = {http://arxiv.org/abs/2112.09687},
-	abstract = {Classical light field rendering for novel view synthesis can accurately reproduce view-dependent effects such as reflection, refraction, and translucency, but requires a dense view sampling of the scene. Methods based on geometric reconstruction need only sparse views, but cannot accurately model non-Lambertian effects. We introduce a model that combines the strengths and mitigates the limitations of these two directions. By operating on a four-dimensional representation of the light field, our model learns to represent view-dependent effects accurately. By enforcing geometric constraints during training and inference, the scene geometry is implicitly learned from a sparse set of views. Concretely, we introduce a two-stage transformer-based model that first aggregates features along epipolar lines, then aggregates features along reference views to produce the color of a target ray. Our model outperforms the state-of-the-art on multiple forward-facing and 360\{{\textbackslash}textbackslashdeg\} datasets, with larger margins on scenes with severe view-dependent variations.},
-	urldate = {2022-01-23},
-	journal = {arXiv:2112.09687 [cs]},
-	author = {Suhail, Mohammed and Esteves, Carlos and Sigal, Leonid and Makadia, Ameesh},
-	month = dec,
-	year = {2021},
-	keywords = {Computer Science - Computer Vision and Pattern Recognition},
-	annote = {arXiv: 2112.09687},
-	annote = {Comment: Project page with code and videos at https://light-field-neural-rendering.github.io},
-	file = {arXiv Fulltext PDF:/home/jack/Zotero/storage/XFLJUU4H/Suhail et al. - 2021 - Light Field Neural Rendering.pdf:application/pdf;arXiv.org Snapshot:/home/jack/Zotero/storage/DLTLSXVY/2112.html:text/html},
+@misc{suhail2021light,
+      title={Light Field Neural Rendering}, 
+      author={Mohammed Suhail and Carlos Esteves and Leonid Sigal and Ameesh Makadia},
+      year={2021},
+      eprint={2112.09687},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 
-@article{yu_plenoxels_2021,
-	title = {Plenoxels: {Radiance} {Fields} without {Neural} {Networks}},
-	shorttitle = {Plenoxels},
-	url = {http://arxiv.org/abs/2112.05131},
-	abstract = {We introduce Plenoxels (plenoptic voxels), a system for photorealistic view synthesis. Plenoxels represent a scene as a sparse 3D grid with spherical harmonics. This representation can be optimized from calibrated images via gradient methods and regularization without any neural components. On standard, benchmark tasks, Plenoxels are optimized two orders of magnitude faster than Neural Radiance Fields with no loss in visual quality.},
-	urldate = {2022-01-23},
-	journal = {arXiv:2112.05131 [cs]},
-	author = {Yu, Alex and Fridovich-Keil, Sara and Tancik, Matthew and Chen, Qinhong and Recht, Benjamin and Kanazawa, Angjoo},
-	month = dec,
-	year = {2021},
-	keywords = {Computer Science - Computer Vision and Pattern Recognition, Computer Science - Graphics},
-	annote = {arXiv: 2112.05131},
-	annote = {Comment: For video and code, please see https://alexyu.net/plenoxels},
-	file = {arXiv Fulltext PDF:/home/jack/Zotero/storage/8BSZSEE4/Yu et al. - 2021 - Plenoxels Radiance Fields without Neural Networks.pdf:application/pdf;arXiv.org Snapshot:/home/jack/Zotero/storage/K6LCLNKW/2112.html:text/html},
+@misc{yu2021plenoxels,
+      title={Plenoxels: Radiance Fields without Neural Networks},
+      author={{Alex Yu and Sara Fridovich-Keil} and Matthew Tancik and Qinhong Chen and Benjamin Recht and Angjoo Kanazawa},
+      year={2021},
+      eprint={2112.05131},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 
-@article{sitzmann_light_2021,
-	title = {Light {Field} {Networks}: {Neural} {Scene} {Representations} with {Single}-{Evaluation} {Rendering}},
-	shorttitle = {Light {Field} {Networks}},
-	url = {http://arxiv.org/abs/2106.02634},
-	abstract = {Inferring representations of 3D scenes from 2D observations is a fundamental problem of computer graphics, computer vision, and artiﬁcial intelligence. Emerging 3D-structured neural scene representations are a promising approach to 3D scene understanding. In this work, we propose a novel neural scene representation, Light Field Networks or LFNs, which represent both geometry and appearance of the underlying 3D scene in a 360-degree, four-dimensional light ﬁeld parameterized via a neural implicit representation. Rendering a ray from an LFN requires only a single network evaluation, as opposed to hundreds of evaluations per ray for ray-marching or volumetric based renderers in 3D-structured neural scene representations. In the setting of simple scenes, we leverage meta-learning to learn a prior over LFNs that enables multi-view consistent light ﬁeld reconstruction from as little as a single image observation. This results in dramatic reductions in time and memory complexity, and enables real-time rendering. The cost of storing a 360-degree light ﬁeld via an LFN is two orders of magnitude lower than conventional methods such as the Lumigraph. Utilizing the analytical differentiability of neural implicit representations and a novel parameterization of light space, we further demonstrate the extraction of sparse depth maps from LFNs.},
-	language = {en},
-	urldate = {2021-09-25},
-	journal = {arXiv:2106.02634 [cs]},
-	author = {Sitzmann, Vincent and Rezchikov, Semon and Freeman, William T. and Tenenbaum, Joshua B. and Durand, Fredo},
-	month = jun,
-	year = {2021},
-	keywords = {⛔ No DOI found, Computer Science - Artificial Intelligence, Computer Science - Computer Vision and Pattern Recognition, Computer Science - Graphics, Computer Science - Machine Learning, Computer Science - Multimedia},
-	annote = {Comment: First two authors contributed equally. Project website: https://vsitzmann.github.io/lfns/},
-	annote = {ZSCC: 0000001 arXiv: 2106.02634},
-	file = {Sitzmann et al. - 2021 - Light Field Networks Neural Scene Representations.pdf:/home/jack/Zotero/storage/NCYPZGEX/Sitzmann et al. - 2021 - Light Field Networks Neural Scene Representations.pdf:application/pdf},
-}
+@inproceedings{sitzmann2021lfns,
+                        author = {Sitzmann, Vincent
+                                  and Rezchikov, Semon
+                                  and Freeman, William T.
+                                  and Tenenbaum, Joshua B.
+                                  and Durand, Fredo},
+                        title = {Light Field Networks: Neural Scene Representations
+                                 with Single-Evaluation Rendering},
+                        booktitle = {Proc. NeurIPS},
+                        year={2021}
+						note = {Project Page: https://www.vincentsitzmann.com/lfns, Code: https://github.com/vsitzmann/light-field-networks}
+                    }
