@@ -171,6 +171,11 @@ Bouaziz, Dan B Goldman, Ricardo Martin-Brualla, and Steven M. Seitz.
 2021. “HyperNeRF: A Higher-Dimensional Representation for Topologically
 Varying Neural Radiance Fields.” *ACM Trans. Graph.* 40 (6).
 
+Peng, Sida, Junting Dong, Qianqian Wang, Shangzhan Zhang, Qing Shuai,
+Xiaowei Zhou, and Hujun Bao. 2021. “Animatable Neural Radiance Fields
+for Modeling Dynamic Human Bodies.” In *Proceedings of the IEEE/CVF
+International Conference on Computer Vision (ICCV)*, 14314–23.
+
 Pumarola, Albert, Enric Corona, Gerard Pons-Moll, and Francesc
 Moreno-Noguer. 2021. “D-NeRF: Neural Radiance Fields for Dynamic
 Scenes.” In *Proceedings of the IEEE/CVF Conference on Computer Vision
