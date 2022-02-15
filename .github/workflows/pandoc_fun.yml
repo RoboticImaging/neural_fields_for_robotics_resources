@@ -13,6 +13,8 @@ jobs:
         uses: r-lib/actions/setup-pandoc@v2
         with:
           pandoc-version: '2.14.2' # The pandoc version to download (if necessary) and use.
+      - name: Recent IEEE CLS
+        run: wget -c https://github.com/citation-style-language/styles/blob/master/ieee.csl
       - name: Set permissions
         run: cd ${{ github.workspace }} && chmod 740 ./src/generate.sh && chmod 740 ./src/build.sh
       - name: Generate files
