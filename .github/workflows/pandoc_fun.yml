@@ -1,5 +1,8 @@
 name: Pandoc Fun
-on: [push]
+on:
+  push:
+    branches:
+      - main
 jobs:
   normal_ci:
     runs-on: ubuntu-latest
