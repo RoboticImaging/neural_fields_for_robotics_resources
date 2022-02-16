@@ -8,7 +8,7 @@ echo "## Contents" > "./src/contents.md"
 while IFS=, read -r filename formatted_name
 do
     echo "Working on: $filename"
-    pandoc -t markdown_strict --citeproc "./src/$filename.md" --csl ieee.csl -o "./src/gen/$filename-output.md" --bibliography "./src/$filename.bib"
+    pandoc -t markdown_strict --citeproc --csl "./ieee.csl" "./src/$filename.md" -o "./src/gen/$filename-output.md" --bibliography "./src/$filename.bib"
 
     echo "- [$formatted_name](#$filename)" >> "./src/contents.md"
 done < $sections

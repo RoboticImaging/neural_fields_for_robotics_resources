@@ -1,13 +1,15 @@
-Adamkiewicz, Michal, Timothy Chen, Adam Caccavale, Rachel Gardner,
-Preston Culbertson, Jeannette Bohg, and Mac Schwager. 2021. “Vision-Only
-Robot Navigation in a Neural Radiance World.” *arXiv:2110.00168 \[Cs\]*,
-September. <http://arxiv.org/abs/2110.00168>.
+<span class="csl-left-margin">\[1\] </span><span
+class="csl-right-inline">Z. Zhu *et al.*, “NICE-SLAM: Neural Implicit
+Scalable Encoding for SLAM,” *arXiv*, 2021. </span>
 
-Sucar, Edgar, Shikun Liu, Joseph Ortiz, and Andrew J. Davison. 2021.
+<span class="csl-left-margin">\[2\] </span><span
+class="csl-right-inline">M. Adamkiewicz *et al.*, “Vision-Only Robot
+Navigation in a Neural Radiance World,” *arXiv:2110.00168 \[cs\]*, Sep.
+2021 \[Online\]. Available: <http://arxiv.org/abs/2110.00168>.
+\[Accessed: Oct. 11, 2021\]</span>
+
+<span class="csl-left-margin">\[3\] </span><span
+class="csl-right-inline">E. Sucar, S. Liu, J. Ortiz, and A. J. Davison,
 “<span class="nocase">iMAP</span>: Implicit Mapping and Positioning in
-Real-Time.” In *Proceedings of the IEEE/CVF International Conference on
-Computer Vision (ICCV)*, 6229–38.
-
-Zhu, Zihan, Songyou Peng, Viktor Larsson, Weiwei Xu, Hujun Bao, Zhaopeng
-Cui, Martin R. Oswald, and Marc Pollefeys. 2021. “NICE-SLAM: Neural
-Implicit Scalable Encoding for SLAM.” *arXiv*.
+Real-Time,” in *Proceedings of the IEEE/CVF International Conference on
+Computer Vision (ICCV)*, Oct. 2021, pp. 6229–6238. </span>

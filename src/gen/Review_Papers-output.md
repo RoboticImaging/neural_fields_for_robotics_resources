@@ -1,14 +1,15 @@
-Tewari, Ayush, Ohad Fried, Justus Thies, Vincent Sitzmann, Stephen
-Lombardi, Kalyan Sunkavalli, Ricardo Martin-Brualla, et al. 2020. “State
-of the Art on Neural Rendering.” *arXiv:2004.03805 \[Cs\]*, April.
-<http://arxiv.org/abs/2004.03805>.
+<span class="csl-left-margin">\[1\] </span><span
+class="csl-right-inline">A. Tewari *et al.*, “State of the Art on Neural
+Rendering,” *arXiv:2004.03805 \[cs\]*, Apr. 2020 \[Online\]. Available:
+<http://arxiv.org/abs/2004.03805>. \[Accessed: Oct. 11, 2021\]</span>
 
-Tewari, Ayush, Justus Thies, Ben Mildenhall, Pratul Srinivasan, Edgar
-Tretschk, Yifan Wang, Christoph Lassner, et al. 2021. “Advances in
-Neural Rendering.” *arXiv:2111.05849 \[Cs\]*, November.
-<http://arxiv.org/abs/2111.05849>.
+<span class="csl-left-margin">\[2\] </span><span
+class="csl-right-inline">Y. Xie *et al.*, “Neural Fields in Visual
+Computing and Beyond,” *arXiv:2111.11426 \[cs\]*, Nov. 2021 \[Online\].
+Available: <http://arxiv.org/abs/2111.11426>. \[Accessed: Nov. 27,
+2021\]</span>
 
-Xie, Yiheng, Towaki Takikawa, Shunsuke Saito, Or Litany, Shiqin Yan,
-Numair Khan, Federico Tombari, James Tompkin, Vincent Sitzmann, and
-Srinath Sridhar. 2021. “Neural Fields in Visual Computing and Beyond.”
-*arXiv:2111.11426 \[Cs\]*, November. <http://arxiv.org/abs/2111.11426>.
+<span class="csl-left-margin">\[3\] </span><span
+class="csl-right-inline">A. Tewari *et al.*, “Advances in Neural
+Rendering,” *arXiv:2111.05849 \[cs\]*, Nov. 2021 \[Online\]. Available:
+<http://arxiv.org/abs/2111.05849>. \[Accessed: Nov. 27, 2021\]</span>

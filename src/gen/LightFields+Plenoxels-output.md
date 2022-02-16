@@ -1,11 +1,16 @@
-Alex Yu and Sara Fridovich-Keil, Matthew Tancik, Qinhong Chen, Benjamin
-Recht, and Angjoo Kanazawa. 2021. “Plenoxels: Radiance Fields Without
-Neural Networks.” <https://arxiv.org/abs/2112.05131>.
+<span class="csl-left-margin">\[1\] </span><span
+class="csl-right-inline">M. Suhail, C. Esteves, L. Sigal, and A.
+Makadia, “Light field neural rendering.” 2021 \[Online\]. Available:
+<https://arxiv.org/abs/2112.09687></span>
 
-Sitzmann, Vincent, Semon Rezchikov, William T. Freeman, Joshua B.
-Tenenbaum, and Fredo Durand. 2021. “Light Field Networks: Neural Scene
-Representations with Single-Evaluation Rendering.” In *Proc. NeurIPS*.
+<span class="csl-left-margin">\[2\] </span><span
+class="csl-right-inline">Alex Yu and Sara Fridovich-Keil, M. Tancik, Q.
+Chen, B. Recht, and A. Kanazawa, “Plenoxels: Radiance fields without
+neural networks.” 2021 \[Online\]. Available:
+<https://arxiv.org/abs/2112.05131></span>
 
-Suhail, Mohammed, Carlos Esteves, Leonid Sigal, and Ameesh Makadia.
-2021. “Light Field Neural Rendering.”
-<https://arxiv.org/abs/2112.09687>.
+<span class="csl-left-margin">\[3\] </span><span
+class="csl-right-inline">V. Sitzmann, S. Rezchikov, W. T. Freeman, J. B.
+Tenenbaum, and F. Durand, “Light field networks: Neural scene
+representations with single-evaluation rendering,” in *Proc. NeurIPS*,
+2021. </span>
