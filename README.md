@@ -172,17 +172,22 @@ Synthesis,” *arXiv:2103.14910 \[cs\]*, Jul. 2021, Accessed: Oct. 11,
 <a name=LightFields+Plenoxels></a>
 ## Light Fields + Plenoxels
 <span class="csl-left-margin">\[1\] </span><span
+class="csl-right-inline">J. Ost, I. Laradji, A. Newell, Y. Bahat, and F.
+Heide, “Neural Point Light Fields,” *CoRR*, vol. abs/2112.01473, 2021,
+Available: <https://arxiv.org/abs/2112.01473></span>
+
+<span class="csl-left-margin">\[2\] </span><span
 class="csl-right-inline">M. Suhail, C. Esteves, L. Sigal, and A.
 Makadia, “Light field neural rendering.” 2021. Available:
 <https://arxiv.org/abs/2112.09687></span>
 
-<span class="csl-left-margin">\[2\] </span><span
+<span class="csl-left-margin">\[3\] </span><span
 class="csl-right-inline">Alex Yu and Sara Fridovich-Keil, M. Tancik, Q.
 Chen, B. Recht, and A. Kanazawa, “Plenoxels: Radiance fields without
 neural networks.” 2021. Available:
 <https://arxiv.org/abs/2112.05131></span>
 
-<span class="csl-left-margin">\[3\] </span><span
+<span class="csl-left-margin">\[4\] </span><span
 class="csl-right-inline">V. Sitzmann, S. Rezchikov, W. T. Freeman, J. B.
 Tenenbaum, and F. Durand, “Light field networks: Neural scene
 representations with single-evaluation rendering,” 2021.</span>
@@ -240,19 +245,34 @@ IEEE/CVF international conference on computer vision (ICCV)*, 2021, pp.
 class="csl-right-inline">T. Müller, A. Evans, C. Schied, and A. Keller,
 “Instant Neural Graphics Primitives with a Multiresolution Hash
 Encoding,” *arXiv:2201.05989*, Jan. 2022.</span>
+
+<span class="csl-left-margin">\[2\] </span><span
+class="csl-right-inline">K. Deng, A. Liu, J.-Y. Zhu, and D. Ramanan,
+“Depth-supervised NeRF: Fewer Views and Faster Training for Free,”
+*arXiv preprint arXiv:2107.02791*, 2021.</span>
 <a name=Robotics_Applications></a>
 ## Robotics Applications
 <span class="csl-left-margin">\[1\] </span><span
+class="csl-right-inline">D. Driess, Z. Huang, Y. Li, R. Tedrake, and M.
+Toussaint, “Learning Multi-Object Dynamics with Compositional Neural
+Radiance Fields,” *arXiv preprint arXiv:2202.11855*, 2022.</span>
+
+<span class="csl-left-margin">\[2\] </span><span
+class="csl-right-inline">L. Yen-Chen, P. Florence, J. T. Barron, T.-Y.
+Lin, A. Rodriguez, and P. Isola, “NeRF-Supervision: Learning Dense
+Object Descriptors from Neural Radiance Fields,” 2022.</span>
+
+<span class="csl-left-margin">\[3\] </span><span
 class="csl-right-inline">Z. Zhu *et al.*, “NICE-SLAM: Neural Implicit
 Scalable Encoding for SLAM,” *arXiv*, 2021.</span>
 
-<span class="csl-left-margin">\[2\] </span><span
+<span class="csl-left-margin">\[4\] </span><span
 class="csl-right-inline">M. Adamkiewicz *et al.*, “Vision-Only Robot
 Navigation in a Neural Radiance World,” *arXiv:2110.00168 \[cs\]*, Sep.
 2021, Accessed: Oct. 11, 2021. \[Online\]. Available:
 <http://arxiv.org/abs/2110.00168></span>
 
-<span class="csl-left-margin">\[3\] </span><span
+<span class="csl-left-margin">\[5\] </span><span
 class="csl-right-inline">E. Sucar, S. Liu, J. Ortiz, and A. J. Davison,
 “<span class="nocase">iMAP</span>: Implicit Mapping and Positioning in
 Real-Time,” in *Proceedings of the IEEE/CVF International Conference on
