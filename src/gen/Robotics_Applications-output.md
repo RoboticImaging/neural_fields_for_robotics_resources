@@ -6,7 +6,8 @@ Radiance Fields,” *arXiv preprint arXiv:2202.11855*, 2022.</span>
 <span class="csl-left-margin">\[2\] </span><span
 class="csl-right-inline">L. Yen-Chen, P. Florence, J. T. Barron, T.-Y.
 Lin, A. Rodriguez, and P. Isola, “NeRF-Supervision: Learning Dense
-Object Descriptors from Neural Radiance Fields,” 2022.</span>
+Object Descriptors from Neural Radiance Fields,” in *IEEE Conference on
+Robotics and Automation (ICRA)*, 2022.</span>
 
 <span class="csl-left-margin">\[3\] </span><span
 class="csl-right-inline">Z. Zhu *et al.*, “NICE-SLAM: Neural Implicit
