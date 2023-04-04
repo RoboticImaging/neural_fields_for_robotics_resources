@@ -17,5 +17,4 @@ neural networks.” 2021. Available:
 <span class="csl-left-margin">\[4\] </span><span
 class="csl-right-inline">V. Sitzmann, S. Rezchikov, W. T. Freeman, J. B.
 Tenenbaum, and F. Durand, “Light field networks: Neural scene
-representations with single-evaluation rendering,” in *Proc. NeurIPS*,
-2021.</span>
+representations with single-evaluation rendering,” 2021.</span>
